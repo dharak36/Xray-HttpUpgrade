@@ -1,5 +1,4 @@
-Xray Core with http upgrade and ws
-
+Xray Core, with http upgrade and ws, but without domain and path check 
 
 ## Compilation
 
