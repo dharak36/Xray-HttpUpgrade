@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gorilla/websocket"
+	"github.com/dharak36/websocket"
 	"github.com/xtls/xray-core/common"
 	"github.com/xtls/xray-core/common/net"
 	"github.com/xtls/xray-core/common/platform"
